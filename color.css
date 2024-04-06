@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+	text-align: center;
+	color: #fff;
+}
+
+p{
+	color: white;
+}
+
+
+h2,h1{
+	color: white;
+}
+
+div{
+	color: white;
+}
+
+
+#head1{
+	color: orange;
+}
+
+
