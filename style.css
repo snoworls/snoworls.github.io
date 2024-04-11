@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+	color: white;
+	font-size: large;
+}
+
+h1,h2,h3,p{
+	text-align: center;
+}
+
+h1{
+	color:  #5dade2 ;
+}
+
+h2{
+	color: green;
+}
+
+.paragraph{
+	width: 1000px;
+	margin: 0 auto;
+}
